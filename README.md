@@ -1,0 +1,2 @@
+# Exploratory-Data-Analysis-of-NBA-teams-and-players-by-using-SQLite-database-and-JSON-files
+In this project I had a list of all NBA teams and players as a SQLite database file and used player's detailed information as JSON files from NBA website. I provided high level statistics of all players such as their age, height, team, college, and etc. and visualized the results. Then I did some EDA (Exploratory Data Analysis) to identify the relationships between any of players attributes and the provided metrics.
